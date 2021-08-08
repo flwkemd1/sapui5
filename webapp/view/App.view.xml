@@ -31,7 +31,7 @@
 				</f:DynamicPageTitle>
 			</f:title>
 
-			<!-- DynamicPage Header -->
+			<!-- DynamicPage Header-->  
 			<f:header>  
 				<f:DynamicPageHeader pinnable="true">
 						<FlexBox
