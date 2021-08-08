@@ -17,7 +17,7 @@
 					</f:heading>
 
 					<f:actions>
-						<ToolbarSpacer/>
+						<ToolbarSpacer/> 
 						<Button
 								text="Edit"
 								type="Emphasized"/>
